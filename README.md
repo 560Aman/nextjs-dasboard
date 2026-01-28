@@ -4,19 +4,19 @@ This is a dashboard application built using Next.js.
 It includes products and users management with API integration.
 
 ## Tech Stack
-. Next.js
-. React
-. JavaScript
-.Material UI
-.DummyJSON API
+- Next.js
+- React
+- JavaScript
+- Material UI
+- DummyJSON API
 
 ## Features
-.Login and Logout
-.Dashboard page
-. Products list
-. Product details page
-. Users list
-. API integration
+- Login and Logout
+- Dashboard page
+- Products list
+- Product details page
+- Users list
+- API integration
 
 ## How to Run Project
 
@@ -26,5 +26,6 @@ It includes products and users management with API integration.
    
 ## Author
 This project was created as part of a frontend assessment
+
 Aman Patwa  
 Frontend Developer

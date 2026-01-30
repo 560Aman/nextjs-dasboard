@@ -25,7 +25,5 @@ It includes products and users management with API integration.
 3. Open http://localhost:3000
    
 ## Author
-This project was created as part of a frontend assessment
-
 Aman Patwa  
-Frontend Developer
+Developer
